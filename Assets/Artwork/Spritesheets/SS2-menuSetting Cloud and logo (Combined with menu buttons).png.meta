@@ -1,0 +1,411 @@
+fileFormatVersion: 2
+guid: a077c145f46eb45e88837bfc4a184a6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6265588807280892278
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_0
+  - first:
+      213: -3652830118517002965
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_1
+  - first:
+      213: -6735295223630614275
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_2
+  - first:
+      213: 5948054911963192249
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_3
+  - first:
+      213: 2237948852608444398
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_4
+  - first:
+      213: 1941227188452761734
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_5
+  - first:
+      213: 6339907618435609649
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_6
+  - first:
+      213: 383968753008729093
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_7
+  - first:
+      213: -5668590253773063403
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_8
+  - first:
+      213: 544578531782134057
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_9
+  - first:
+      213: -2772024948771403262
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_10
+  - first:
+      213: -3578255130985226662
+    second: SS2-menuSetting Cloud and logo (Combined with menu buttons)_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 902
+        width: 3600
+        height: 748
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8444895467d4871b5d677b30f02837
+      internalID: -6265588807280892278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_1
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 526
+        width: 547
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53a68943cc7c478db13c5ee94852ffc
+      internalID: -3652830118517002965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_2
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 598
+        width: 393
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ac31ae2034c4884848ade3de5defba
+      internalID: -6735295223630614275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_3
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 648
+        width: 313
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fa147acd27d45d98e213a1ecf2b66e
+      internalID: 5948054911963192249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 120
+        width: 1167
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b11afd2e7d5d4b788214d6b4c045b2d
+      internalID: 2237948852608444398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_5
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 472
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba27e323328754875acd4f980532e953
+      internalID: 1941227188452761734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_6
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 410
+        width: 313
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194c5d471acc64ad8ab28dfab2916203
+      internalID: 6339907618435609649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_7
+      rect:
+        serializedVersion: 2
+        x: 3091
+        y: 424
+        width: 313
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7e976cae96f49e1b3b7604befcaaea
+      internalID: 383968753008729093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 78
+        width: 107
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437e1e92a4de547f59e231d080f377ae
+      internalID: -5668590253773063403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 78
+        width: 109
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ab489d85a547c48189a38b45adb87
+      internalID: 544578531782134057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_10
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 78
+        width: 225
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ba804092ce943269fb7e7eb3403a8e
+      internalID: -2772024948771403262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS2-menuSetting Cloud and logo (Combined with menu buttons)_11
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 10
+        width: 1924
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19ebd0dbde714495849da384f04bfb5
+      internalID: -3578255130985226662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 51c63aa8eef1b43babb1b8803cf9d1f2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

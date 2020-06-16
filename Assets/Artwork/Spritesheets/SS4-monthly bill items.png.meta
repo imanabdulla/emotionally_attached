@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: a251cb9f036c24516b19fc722bae4946
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1290893030642873673
+    second: SS4-monthly bill items_0
+  - first:
+      213: -2465227735529580513
+    second: SS4-monthly bill items_1
+  - first:
+      213: 4966670171711479832
+    second: SS4-monthly bill items_2
+  - first:
+      213: -5956003836284756468
+    second: SS4-monthly bill items_3
+  - first:
+      213: 725025029430545977
+    second: SS4-monthly bill items_4
+  - first:
+      213: -502548680960066455
+    second: SS4-monthly bill items_5
+  - first:
+      213: -8007128425381408923
+    second: SS4-monthly bill items_6
+  - first:
+      213: -1037313690153903100
+    second: SS4-monthly bill items_7
+  - first:
+      213: 8939806309047355818
+    second: SS4-monthly bill items_8
+  - first:
+      213: -8299454226581965760
+    second: SS4-monthly bill items_9
+  - first:
+      213: -2950506698798895633
+    second: SS4-monthly bill items_10
+  - first:
+      213: 5863164137197840724
+    second: SS4-monthly bill items_11
+  - first:
+      213: -2038739052040001549
+    second: SS4-monthly bill items_12
+  - first:
+      213: -9168101272209175665
+    second: SS4-monthly bill items_13
+  - first:
+      213: -5080695927448584974
+    second: SS4-monthly bill items_14
+  - first:
+      213: -7611151854818133373
+    second: SS4-monthly bill items_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS4-monthly bill items_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 1327
+        height: 994
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb20102606d4405ea8905cbc6614de6
+      internalID: -1290893030642873673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_1
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 840
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49148c32a7ff44d949454ee4c001da73
+      internalID: -2465227735529580513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_2
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 860
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689c39cc49eed4c3d84d6d40c2b93511
+      internalID: 4966670171711479832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_3
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 860
+        width: 148
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae6c4cb9d3d348bd94a27cb2ac4a584
+      internalID: -5956003836284756468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_4
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 762
+        width: 148
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c074073582eb411e88cd26fad8814cc
+      internalID: 725025029430545977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_5
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 762
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c98708c9564f4181e03cacc86f8c8
+      internalID: -502548680960066455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_6
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 737
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1c640bff0d499ab57ffcf6e8990a0
+      internalID: -8007128425381408923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_7
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 615
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f00bc1788a724f3f9de5bf9e4383b2f
+      internalID: -1037313690153903100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_8
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 645
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f84c808d7e4bb5bc868588c79ebf8
+      internalID: 8939806309047355818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_9
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 645
+        width: 148
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f6c8438459b4bd6836de27bbe1fc3b
+      internalID: -8299454226581965760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_10
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 529
+        width: 148
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb143bddd3ad4ff8a68b792111a9aa9
+      internalID: -2950506698798895633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_11
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 529
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c27d7ec68d80455383bf896bb60aa91
+      internalID: 5863164137197840724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_12
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 512
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1136bf497e7034c13a697711e38fdc21
+      internalID: -2038739052040001549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_13
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 388
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bbe1b50c0ca4a15b73092fbd0cdd2c
+      internalID: -9168101272209175665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_14
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 407
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18acea771615445758ae28e4e306ba4a
+      internalID: -5080695927448584974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS4-monthly bill items_15
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 407
+        width: 148
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6439563bc124b71b8ecd1c16422bc1
+      internalID: -7611151854818133373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a81d2596733c54def99933884ad5a670
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

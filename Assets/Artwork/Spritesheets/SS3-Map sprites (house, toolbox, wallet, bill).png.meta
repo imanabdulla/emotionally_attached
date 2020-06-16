@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 0faeb896d854244769cf8cb55d092c47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8415866911675357893
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_0
+  - first:
+      213: -7056801035599934115
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_1
+  - first:
+      213: -2609074053785022701
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_2
+  - first:
+      213: -7374636146459139487
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_3
+  - first:
+      213: 193253217868930283
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_4
+  - first:
+      213: -613158960864048546
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_5
+  - first:
+      213: 7089738162041142322
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_6
+  - first:
+      213: -1533132871969572613
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_7
+  - first:
+      213: -6183780114299042338
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_8
+  - first:
+      213: 7620246886621251648
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_9
+  - first:
+      213: 4087356219266509382
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_10
+  - first:
+      213: -8675136652566664806
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_11
+  - first:
+      213: 4171083631641990520
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_12
+  - first:
+      213: 9176840162786042374
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_13
+  - first:
+      213: -8567678654348227797
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_14
+  - first:
+      213: 5281766296672926456
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_15
+  - first:
+      213: 787922372855420636
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_16
+  - first:
+      213: 6102100930966782558
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_17
+  - first:
+      213: -8310188829946762757
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_18
+  - first:
+      213: -1087642864701100194
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_19
+  - first:
+      213: -6964691784011989993
+    second: SS3-Map sprites (house, toolbox, wallet, bill)_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 2279
+        width: 83
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981b91f4f3c774172a25eda4ca36d05c
+      internalID: 8415866911675357893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2176
+        width: 776
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cddb6da09d524df6a58eeffdc7978c9
+      internalID: -7056801035599934115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_2
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2343
+        width: 410
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9262a8cef5b454513b45822d8d70d3bc
+      internalID: -2609074053785022701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_3
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2345
+        width: 677
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8762b67ecb6284cf99c82670df95f141
+      internalID: -7374636146459139487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_4
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 2092
+        width: 481
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e276787aa2ee48deb3ba0d91f09e120
+      internalID: 193253217868930283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_5
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 2204
+        width: 409
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945027a61b2474af5917060434c93b76
+      internalID: -613158960864048546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_6
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 2208
+        width: 204
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d0f998d3aff46e3aedbd16fd80d352
+      internalID: 7089738162041142322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 1800
+        height: 2078
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc14f94701514821a8bb82b1b66fa90
+      internalID: -1533132871969572613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_8
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 1573
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7a18222332a4ca0ae63da7e32a19b3
+      internalID: -6183780114299042338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_9
+      rect:
+        serializedVersion: 2
+        x: 3263
+        y: 1445
+        width: 378
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85954c24c2f7c4a92bb6cc50785e14cc
+      internalID: 7620246886621251648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_10
+      rect:
+        serializedVersion: 2
+        x: 3144
+        y: 1514
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aad755cadf5411097b45aec0cba529
+      internalID: 4087356219266509382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_11
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 1480
+        width: 7
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc9dc6a1bf24a9b8b5c35d9f6bc445
+      internalID: -8675136652566664806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_12
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 730
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e93cdec8d484e32b735cfcc2b7089c
+      internalID: 4171083631641990520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_13
+      rect:
+        serializedVersion: 2
+        x: 3397
+        y: 751
+        width: 354
+        height: 510
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1063ef8def604df093c84e8060b4bf0
+      internalID: 9176840162786042374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_14
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 745
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e89d535203214233a34f8c81501818b
+      internalID: -8567678654348227797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_15
+      rect:
+        serializedVersion: 2
+        x: 3266
+        y: 742
+        width: 42
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d7e47d6372d4e7a9b42ce42bdeac6e
+      internalID: 5281766296672926456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_16
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 663
+        width: 192
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a05a8ff1f2e478e892d13ad99bf222
+      internalID: 787922372855420636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_17
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 614
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2037f611eac4dcdbf9e13242ee828b
+      internalID: 6102100930966782558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_18
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 0
+        width: 699
+        height: 442
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57663a81f40014357bfb20a042a5197e
+      internalID: -8310188829946762757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_19
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 243
+        width: 497
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7059c3c133b94186ae2cb1b6de65f1d
+      internalID: -1087642864701100194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS3-Map sprites (house, toolbox, wallet, bill)_20
+      rect:
+        serializedVersion: 2
+        x: 2823
+        y: 0
+        width: 995
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d878a0e8b7c4443bc4f81805c3aede
+      internalID: -6964691784011989993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45e64e305f1c5460e9f3284e3b20e7ab
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
